@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "IMTCalculator", "IMTCalculator.vcxproj", "{2C859FAC-C64D-4023-9B04-FB022C89F14E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C859FAC-C64D-4023-9B04-FB022C89F14E}.Debug|x64.ActiveCfg = Debug|x64
+		{2C859FAC-C64D-4023-9B04-FB022C89F14E}.Debug|x64.Build.0 = Debug|x64
+		{2C859FAC-C64D-4023-9B04-FB022C89F14E}.Release|x64.ActiveCfg = Release|x64
+		{2C859FAC-C64D-4023-9B04-FB022C89F14E}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B99E008-755E-4723-A9C7-B66FFBE4DD36}
+	EndGlobalSection
+EndGlobal
