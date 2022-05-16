@@ -13,10 +13,11 @@ public:
 private:
 	Ui::IMTCalculatorClass ui;
 
+	//Слоты
 	void onWeightChange();
 	void onHeightChange();
 	void onCalculate();
 
-
+	//Переменные класса
 	double weight, height, result;
 };
